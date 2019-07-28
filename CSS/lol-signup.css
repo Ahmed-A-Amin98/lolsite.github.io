@@ -1,0 +1,50 @@
+body
+{
+    background-image: url("../Images/Summoners-Rift%20bg.jpg");
+    background-repeat: repeat-y;
+    border-color: transparent;
+    
+}
+h2{
+    text-align: center;
+}
+.login{
+    border-radius: 30px;
+    background-color: black;
+    width: 500px;
+    margin: 80px auto;
+    position: relative;
+    border-color: transparent;
+  padding: 60px 70px;
+}
+.text{
+    color:#a09b8c; 
+}
+
+.list{
+    list-style-type: none;
+    display: inline;
+}
+.item{
+    list-style-type: none;
+    display: inline;
+}
+.select{
+    width: 100%;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+.btn-login{
+    
+   text-align: center;
+    
+}
+.btn{
+    width: 100%;
+    color: #5c5b57;
+    background-color: #1e2328;
+    border-color: #5c5b57;
+    font-size: 15px;
+    margin-bottom: 10px;
+
+}
